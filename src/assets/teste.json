@@ -1,0 +1,65 @@
+[
+    {
+        "area": "All Status",
+        "status": "All Status",
+        "statusFlag": "N",
+        "so": 241,
+        "soLine": 3525
+    },
+    {
+        "area": "In Stock",
+        "status": "Shipping",
+        "statusFlag": "Y",
+        "so": 39,
+        "soLine": 24
+    },
+    {
+        "area": "In Stock",
+        "status": "Fully",
+        "statusFlag": "N",
+        "so": 2464,
+        "soLine": 434
+    },
+    {
+        "area": "In Stock",
+        "status": "Received",
+        "statusFlag": "N",
+        "so": 3424,
+        "soLine": 347
+    },
+    {
+        "area": "In Stock",
+        "status": "Awaiting",
+        "statusFlag": "N",
+        "so": 722,
+        "soLine": 323
+    },
+    {
+        "area": "In Stock",
+        "status": "Ordered",
+        "statusFlag": "N",
+        "so": 237,
+        "soLine": 9346
+    },
+    {
+        "area": "In Stock",
+        "status": "Shipped",
+        "statusFlag": "N",
+        "so": 1321,
+        "soLine": 643
+    },
+    {
+        "area": "In Stock",
+        "status": "Complete",
+        "statusFlag": "N",
+        "so": 545,
+        "soLine": 543
+    },
+    {
+        "area": "In Stock",
+        "status": "DELAYED - Awaiting Receiving",
+        "statusFlag": "N",
+        "so": 232,
+        "soLine": 533
+    }
+]
